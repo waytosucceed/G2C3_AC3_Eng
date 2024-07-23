@@ -1,0 +1,122 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What did Tommy use to make Beep's arms?",
+    "options": ["Forks", "Spoons", "Sticks", "Pencils"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Which of these is a common noun?",
+    "options": ["Dog", "Fluffy", "New York", "Sunday"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "How did Tommy find Beep?",
+    "options": ["He heard Beep singing", "He saw Beep", "Someone told him", "Beep came back"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which word should start with a capital letter?",
+    "options": ["Book", "Cat", "Disney", "Tree"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "What is the main theme of this story?",
+    "options": ["Sadness", "Anger", "Friendship", "Fear"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Which is a proper noun?",
+    "options": ["City", "Park", "London", "River"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "\"School\" is a proper noun. (True / False)",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "All common nouns start with capital letters. (True / False)",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Which word is a common noun?",
+    "options": ["Monday", "April", "Month", "Christmas"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Which is NOT a proper noun?",
+    "options": ["Earth", "Sun", "Star", "Mars"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Names of days of the week are common nouns. (True / False)",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which word should NOT start with a capital letter?",
+    "options": ["John", "Tuesday", "Apple", "February"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Names of countries are proper nouns. (True / False)",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Which is a common noun?",
+    "options": ["Disneyland", "Amusement park", "Eiffel Tower", "Mount Everest"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "\"Teacher\" is a common noun. (True / False)",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which word is a proper noun?",
+    "options": ["Ocean", "River", "Pacific", "Lake"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which is NOT a common noun?",
+    "options": ["Toy", "Game", "Cricket", "Monopoly"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Fill in the blank with a common noun: The _____ was barking loudly.",
+    "options": ["Dog", "Cat", "Tree", "Bird"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Fill in the blank with a proper noun: My favourite book is _____.",
+    "options": ["Harry Potter", "Pride and Prejudice", "The Great Gatsby", "The Lord of the Rings"],
+    "correct": -1
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Fill in the blank with a proper noun: We live on planet _____.",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correct": 0
+  }
+]
